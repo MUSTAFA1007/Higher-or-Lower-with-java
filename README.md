@@ -3,6 +3,11 @@ a small game of higher or lower just the code
 
 the cod for the game:-
 
+
+
+
+
+
 import java.util.Random;
 import java.util.Scanner;
 
